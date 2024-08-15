@@ -14,6 +14,15 @@
 				"/Users/akshitsharma/Desktop/gamedev/Krackem/Krackem/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
 				"/Users/akshitsharma/Desktop/gamedev/Krackem/Krackem/Content/FirstPerson/Blueprints/BP_Pickup_Rifle2.uasset",
 				"/Users/akshitsharma/Desktop/gamedev/Krackem/Krackem/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S.uasset",
+				"/Users/akshitsharma/Desktop/gamedev/Krackem/Krackem/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"/Users/akshitsharma/Desktop/gamedev/Krackem/Krackem/Content/UI/Map/MainMenu.umap",
+				"/Users/akshitsharma/Desktop/gamedev/Krackem/Krackem/Content/UI/Map/MainMenuBar.uasset",
+				"/Users/akshitsharma/Desktop/gamedev/Krackem/Krackem/Content/UI/Map/MainMenuHud.uasset",
+				"/Users/akshitsharma/Desktop/gamedev/Krackem/Krackem/Content/UI/Map/MainMenuScreen.uasset",
+				"/Users/akshitsharma/Desktop/gamedev/Krackem/Krackem/Content/UI/Map/MainMenuGameMode.uasset",
+				"/Users/akshitsharma/Desktop/gamedev/Krackem/Krackem/Content/UI/pauseScreen/WB_PauseMenu.uasset",
+				"/Users/akshitsharma/Desktop/gamedev/Krackem/Krackem/Content/input/EA_pause.uasset",
+				"/Users/akshitsharma/Desktop/gamedev/Krackem/Krackem/Content/FirstPerson/Input/IMC_Default.uasset",
 				"/Users/akshitsharma/Desktop/gamedev/Krackem/Krackem/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/P8/0GJ9TLQE2YKOIFZ6YHG33H.uasset",
 				"/Users/akshitsharma/Desktop/gamedev/Krackem/Krackem/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/EF/G3O7YJR3QU51OHQGRYB635.uasset",
 				"/Users/akshitsharma/Desktop/gamedev/Krackem/Krackem/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/DD/654T6CAPVSXAN1LXEX71EI.uasset",
@@ -49,13 +58,7 @@
 				"/Users/akshitsharma/Desktop/gamedev/Krackem/Krackem/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/63/MG6FOV6QQX2CAZCGF7O9MM.uasset",
 				"/Users/akshitsharma/Desktop/gamedev/Krackem/Krackem/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/2J/R4MRTH8FEAO7ML1BCJFIZ2.uasset",
 				"/Users/akshitsharma/Desktop/gamedev/Krackem/Krackem/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/7P/QZX5AESKLO855EVPT5JU20.uasset",
-				"/Users/akshitsharma/Desktop/gamedev/Krackem/Krackem/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/0M/LYKU8MRWM4BO3O1FDZBG2U.uasset",
-				"/Users/akshitsharma/Desktop/gamedev/Krackem/Krackem/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
-				"/Users/akshitsharma/Desktop/gamedev/Krackem/Krackem/Content/UI/Map/MainMenu.umap",
-				"/Users/akshitsharma/Desktop/gamedev/Krackem/Krackem/Content/UI/Map/MainMenuBar.uasset",
-				"/Users/akshitsharma/Desktop/gamedev/Krackem/Krackem/Content/UI/Map/MainMenuHud.uasset",
-				"/Users/akshitsharma/Desktop/gamedev/Krackem/Krackem/Content/UI/Map/MainMenuScreen.uasset",
-				"/Users/akshitsharma/Desktop/gamedev/Krackem/Krackem/Content/UI/Map/MainMenuGameMode.uasset"
+				"/Users/akshitsharma/Desktop/gamedev/Krackem/Krackem/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/0M/LYKU8MRWM4BO3O1FDZBG2U.uasset"
 			]
 		}
 	]
